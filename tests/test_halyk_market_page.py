@@ -64,7 +64,7 @@ def test_halyk_market_search_product(driver):
 
     # Перейти на страницу карточки товара.
     halyk_page.goto_product_page()
-    sleep(q)
+    sleep(1)
 
     # Убедиться, что цена товара в поиске, избранном и карточке товара одинакова.
     first_product_cost_numbers = re.sub(r'\D', '', first_product_cost)
