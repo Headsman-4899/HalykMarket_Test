@@ -4,11 +4,11 @@
 
 1. Склонируй репозиторий проекта:
 
-`git clone https://github.com/Headsman-4899/Steam_API.git`
+`https://github.com/Headsman-4899/HalykMarket_Test.git`
 
 2. Перейди в каталог проекта:
 
-`cd Steam`
+`cd HalykMarket_Test`
 
 3. Установи зависимости, используя команду:
 
